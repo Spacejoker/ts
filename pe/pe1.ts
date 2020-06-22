@@ -1,0 +1,1 @@
+for(let i=0,s=0;i<999;s+=(++i%3*i%5)?0:i)console.log(s)
